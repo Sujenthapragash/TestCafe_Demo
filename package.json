@@ -1,0 +1,15 @@
+{
+  "name": "testcafedemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome -s takeOnFails=true"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "testcafe": "^1.16.1"
+  }
+}
