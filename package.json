@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "testcafe chrome -s takeOnFails=true"
+    "test": "testcafe chrome:headless -s takeOnFails=true"
   },
   "author": "",
   "license": "ISC",
