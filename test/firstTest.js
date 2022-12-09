@@ -1,7 +1,7 @@
 
 fixture("First Fixture")
     .page("https://devexpress.github.io/testcafe/example/");
-@test comment
+@test comment of update
 test("First test", async t => {
     await t
         .typeText("#developer-name", "TAU")
